@@ -1,5 +1,9 @@
 # Python基础精讲
 ## 课程资源
+<div style="text-align:center; border:greensolid1px;">
+<img alt="" src="markdown/qrcode.png"  style="display:inline-block;" width="200"/>
+</div>
+
 * github：https://github.com/BestAnHongjun/python-basics
 * 国内gitee镜像同步：https://gitee.com/an_hongjun/python-basics
 ## 课程大纲
