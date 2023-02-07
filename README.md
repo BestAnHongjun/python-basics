@@ -19,7 +19,7 @@
 * 课程资源：[[百度网盘]](https://pan.baidu.com/s/1FXBCt6gtozkHHC3OaqK8JQ) （提取码：tye4）
 
 ### Day 1：Python变量与数据类型
-* 教学参考视频（预计2023/2/8 0:00前更新）
+* 教学参考视频：[[B站传送门]](https://www.bilibili.com/video/BV1b84y157dw/)
 * 教学参考讲义：[[链接]](day1/)
 
 ### Day 2：Python运算符与程序结构
